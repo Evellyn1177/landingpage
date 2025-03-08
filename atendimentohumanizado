@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Atendimento Humanizado: A chave para o sucesso de franquias</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+    .header { background-color: #f4f4f4; padding: 20px; text-align: center; }
+    .cta-button { background-color: #4CAF50; color: white; padding: 15px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px; margin-top: 20px; }
+    .testimonial { background-color: #e8e8e8; padding: 15px; margin: 10px 0; border-radius: 5px; }
+    .form-group { margin-bottom: 15px; }
+    label { display: block; margin-bottom: 5px; }
+    input[type="text"], input[type="email"], input[type="tel"] { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+    .submit-button { background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border: none; border-radius: 5px; cursor: pointer; }
+    .submit-button:hover { background-color: #45a049; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Atendimento Humanizado: A chave para o sucesso de franquias</h1>
+      <p>Descubra como transformar o atendimento ao cliente e garantir o sucesso da sua franquia com este guia essencial.</p>
+      <a href="#" class="cta-button">Compre Agora</a>
+    </div>
+    
+    <h2>Sobre o Livro</h2>
+    <p>Este livro oferece insights valiosos sobre a importância de um atendimento humanizado para o crescimento e sucesso de franquias. Aprenda técnicas e estratégias comprovadas para melhorar a experiência do cliente e criar uma base de clientes leais.</p>
+
+    <h2>O Que Você Vai Aprender</h2>
+    <ul>
+      <li>A importância do atendimento humanizado</li>
+      <li>Técnicas para melhorar a comunicação com os clientes</li>
+      <li>Como criar uma experiência de cliente excepcional</li>
+      <li>Estratégias para fidelizar clientes</li>
+    </ul>
+
+    <h2>Depoimentos</h2>
+    <div class="testimonial">
+      <p>"Este livro mudou a forma como gerenciamos o atendimento ao cliente em nossa franquia. Recomendo a todos os franqueados!" - <strong>João Silva, proprietário de franquia</strong></p>
+    </div>
+    <div class="testimonial">
+      <p>"Um guia prático e fácil de seguir que realmente faz a diferença no atendimento ao cliente." - <strong>Maria Oliveira, gerente de franquia</strong></p>
+    </div>
+
+    <h2>Sobre o Autor</h2>
+    <p>O autor é um especialista em atendimento ao cliente com mais de 20 anos de experiência na indústria de franquias. Ele compartilha seu conhecimento e experiência para ajudar outros a alcançarem o sucesso em suas próprias franquias.</p>
+
+    <div class="header">
+      <a href="#" class="cta-button">Compre Agora</a>
+    </div>
+
+    <h2>Entre em Contato</h2>
+    <p>Se desejar mais informações ou um orçamento, preencha o formulário abaixo e entraremos em contato com você.</p>
+
+    <form>
+      <div class="form-group">
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name" required>
+      </div>
+      <div class="form-group">
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+      <div class="form-group">
+        <label for="phone">Celular:</label>
+        <input type="tel" id="phone" name="phone" required>
+      </div>
+      <div class="form-group">
+        <label for="robot-check">Confirmação:</label>
+        <input type="text" id="robot-check" name="robot-check" placeholder="Digite 'humano' para confirmar" required>
+      </div>
+      <button type="submit" class="submit-button">Enviar</button>
+    </form>
+  </div>
+</body>
+</html>
